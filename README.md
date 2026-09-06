@@ -1,3 +1,12 @@
+## 👥 Team
+
+**LAKSHANYA.N**
+Register Number: `212224230136`
+
+**ABISHA LINU.L**
+Register Number: `212224040011`
+
+---
 
 
 # 🤖 AI-Based Classroom Attendance System
@@ -818,15 +827,5 @@ JavaScript
 ```
 
 to provide a simple and efficient web-based classroom attendance management system.
-
----
-
-## 👥 Team
-
-**LAKSHANYA.N**
-Register Number: `212224230136`
-
-**ABISHA LINU.L**
-Register Number: `212224040011`
 
 ---
